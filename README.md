@@ -43,8 +43,7 @@ The Generative AI & Computer Vision project aims to combine state-of-the-art dee
 
 ### Object Detection and Classification
 - **Prediction Samples**
-![image](https://github.com/username/repository/blob/main/sample1.png)
-![image](https://github.com/username/repository/blob/main/sample2.png)
+![image](https://github.com/rohitkumar20700000/Generative-AI-Driven-Mathematical-Expression-Interpretation-Using-Computer-Vision/blob/main/math-count-finger-gesture-vector.jpg)
 
 ### AI-Generated Content
 - **Generated Images**
