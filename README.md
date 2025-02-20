@@ -33,6 +33,7 @@ The Generative AI & Computer Vision project aims to combine state-of-the-art dee
 - **Version Control:** Git/GitHub
 
 ## System Architecture
+![image](https://github.com/rohitkumar20700000/Generative-AI-Driven-Mathematical-Expression-Interpretation-Using-Computer-Vision/blob/main/architecture.png)
 - **Input Sources:** Camera feed, image files, synthetic data generation
 - **Processing Pipeline:** Deep learning model selection, feature extraction, image enhancement
 - **Model Integration:** GAN-based image synthesis, object recognition with CNNs
