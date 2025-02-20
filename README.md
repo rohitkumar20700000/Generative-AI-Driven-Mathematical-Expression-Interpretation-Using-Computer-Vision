@@ -47,8 +47,8 @@ The Generative AI & Computer Vision project aims to combine state-of-the-art dee
 
 ### AI-Generated Content
 - **Generated Images**
-![image](https://github.com/username/repository/blob/main/generated1.png)
-![image](https://github.com/username/repository/blob/main/generated2.png)
+![image](https://github.com/rohitkumar20700000/Generative-AI-Driven-Mathematical-Expression-Interpretation-Using-Computer-Vision/blob/main/output.png)
+
 
 ### Detection Accuracy: 96.3%
 (Note: Accuracy is subject to dataset and evaluation metrics.)
